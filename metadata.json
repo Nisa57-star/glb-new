@@ -1,0 +1,6 @@
+{
+  "name": "MOBILE LAB – DETEKTIF GERAK",
+  "description": "Aplikasi interaktif pembelajaran IPA Fisika SMP Kelas 7 untuk memahami konsep gerak, jarak, perpindahan, dan menemukan karakteristik Gerak Lurus Beraturan (GLB) melalui simulasi Discovery Learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
